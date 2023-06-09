@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-LMU93A1" name="pytest" skipped="0" tests="1" time="0.140" timestamp="2023-06-09T11:55:53.902493"><testcase classname="tests.lms_airflow_utils.test_lms_airflow_utils" name="test_ping" time="0.003" /></testsuite></testsuites>
